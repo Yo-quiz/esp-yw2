@@ -62,7 +62,7 @@ const yoKaiList = [
     { name: "Gran Nomi", img: "Gran_Nomi.png" },
     { name: "Torivinador", img: "Torivinador.png" },
     { name: "Torivino", img: "Torivino.png" },
-    { name: "DON-CHAN", aliases: ["DON-CHAN", "Don chan"], img: "DON-CHAN.png" },
+    { name: "DON-CHAN", aliases: ["DON-CHAN", "Don chan"], img: "Don-chan.png" },
     { name: "Rayito", img: "Rayito.png" },
     { name: "Kyryn", img: "Kyryn.png" },
     { name: "Unikyryn", img: "Unikyryn.png" },
