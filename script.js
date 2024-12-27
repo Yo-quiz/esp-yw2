@@ -147,7 +147,7 @@ const yoKaiList = [
     { name: "Trampeida", img: "Trampeida.png" },
     { name: "Malisnia", img: "Malisnia.png" },
     { name: "Keji Do Khan", img: "Keji_Do_Khan.png" },
-    { name: "Gruñón Khan", img: "Grunon_Khan.png" },
+    { name: "Gruñón Khan", img: "Gruñon_Khan.png" },
     { name: "Puergazán", img: "Puergazan.png" },
     { name: "Torreznio", img: "Torreznio.png" },
     { name: "Pupilo Panja", img: "Pupilo_Panja.png" },
